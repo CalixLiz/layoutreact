@@ -30,7 +30,7 @@ var Banner = React.createClass({
 				<NavBar />
 			</div>
 			)
-	}
+	} 
 })
 
 var NavBar = React.createClass({
