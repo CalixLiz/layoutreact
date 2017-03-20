@@ -1,1 +1,1 @@
-*{font-family:Helvetica, Arial, sans-serif;box-sizing:border-box}h1{font-size:300px;text-align:center;color:fuchsia}
+*{font-family:Helvetica, Arial, sans-serif;box-sizing:border-box}.container{margin-top:50px;margin-bottom:50px;display:flex}.container1{margin-top:50px;margin-left:50px;margin-bottom:50px;margin-right:50px;display:flex;align-items:center}.firstdiv{padding:5px 15px;text-align:center}.datedate{color:#6CB0DE;font-size:15px}.time{color:#6CB0DE;font-size:25px}.iconicon{padding:10px 20px}.thirddiv{padding:10px 20px;background:#6CB0DE;color:white;border-radius:25px}
